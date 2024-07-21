@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-👋 I'm Musharraf from Sudan.
+🙋‍♂️ I'm Musharraf from Sudan.
+
 ℹ️ I'm currently seeking new opportunities both domestically and internationally. Feel free to contact me at my email address or through [LinkedIn: ](https://sd.linkedin.com/in/musharraf-omer-260599144).
 
 - 🛠️ Technology stack: C, Rust, Python and HTML + JS/TypeScript.
